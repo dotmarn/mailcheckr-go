@@ -45,3 +45,5 @@ git diff --check
 Describe the problem, the change, and how you tested it. Link the related issue when there is one. If you changed public behavior, include a short usage example and note any compatibility impact. Maintainers may ask for changes during review; keep discussion constructive and focused on the code.
 
 By contributing, you agree that your contribution is licensed under the repository's [MIT License](LICENSE).
+
+Please keep issues and reviews respectful and focused on the work. Assume good intent, give actionable feedback, and avoid personal attacks or harassment. Maintainers may edit or close discussions that do not follow these expectations.
